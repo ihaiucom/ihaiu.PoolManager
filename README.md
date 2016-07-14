@@ -1,5 +1,5 @@
 # ihaiu.PoolManager
-email:ihaiu@qq.com
+email:ihaiu@qq.com ,  zengfeng75@qq.com  <br>
 声明：在Unity PoolManager基础上改的。
 
 #Class
