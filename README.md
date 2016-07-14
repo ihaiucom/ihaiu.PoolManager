@@ -1,6 +1,7 @@
 # ihaiu.PoolManager
 email:ihaiu@qq.com ,  zengfeng75@qq.com  <br>
-声明：在Unity PoolManager基础上改的。
+声明：在Unity PoolManager基础上改的。 <br>
+欢迎使用，如有改良想法求分享。
 
 #Class
 <table>
