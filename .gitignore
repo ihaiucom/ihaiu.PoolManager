@@ -1,0 +1,6 @@
+.DS_Store
+*/.DS_Store
+PoolManager/obj*
+PoolManager/Library
+PoolManager/Library*
+PoolManager/Temp*
